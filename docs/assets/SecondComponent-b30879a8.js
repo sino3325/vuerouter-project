@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as s,p as n,d,a as o}from"./index-caeff057.js";const a={},c=e=>(n("data-v-19d0a8c6"),e=e(),d(),e),p=c(()=>o("h1",null,"secondコンポーネントのコンテンツ",-1)),l=c(()=>o("p",null,"コンテンツ",-1)),r=[p,l];function i(e,u){return _(),s("div",null,r)}const f=t(a,[["render",i],["__scopeId","data-v-19d0a8c6"]]);export{f as default};
